@@ -8,6 +8,9 @@ Create future Devlog sub-headers with the three # symbols, then write your Devlo
 
 For today, I focused on setting everything up to be able to work on my assignments. I believe I've set up github and unity correctly and am now working on the assingment. 
 
+### W3
+We said that the method would be void because it doesn't need to return anything. The parameter it would take would be the player's sanity level, which could be a float or an int depending on how the developer wants to code it. 
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
