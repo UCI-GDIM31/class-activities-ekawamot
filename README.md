@@ -11,7 +11,8 @@ For today, I focused on setting everything up to be able to work on my assignmen
 ### W3
 For the question we got #3, the horror game method. We said that the method would be void because it doesn't need to return anything. The parameter it would take would be the player's sanity level, which could be a float or an int depending on how the developer wants to code it. 
 
-For the Monobehavior and classes metaphor, we said that Monobehavior is a kind of class that can become a component, but not every class can become a component. Additionally, the methods and member variables are all within the classes, and can only be used by those classes. The metaphor we came up with is like Pokemon. Classes are like Pokemon as a whole, but only some Pokemon can be evolved (a monobehavior class). Each Pokemon has their own specific moveset, which is like the methods and member variables. 
+1. For the Monobehavior and classes metaphor, we said that Monobehavior is a kind of class that can become a component, but not every class can become a component. Additionally, the methods and member variables are all within the classes, and can only be used by those classes. The metaphor we came up with is like Pokemon. Classes are like Pokemon as a whole, but only some Pokemon can be evolved (a monobehavior class). Each Pokemon has their own specific moveset, which is like the methods and member variables. 
+2. I believe the balls get very white after bouncing too many times is because the RGB values are being multiplied each time. Since they have a max of 255, the R, G, and B values get multiplied higher and higher until they all reach 255, and an RGB value of 255, 255, 255 is a pure white.  
 
 ## Open-Source Assets
 ### W1
