@@ -26,6 +26,14 @@ For the collider activity, we gave all three colliders colliders. We gave the ca
 
 My question was how do the brackets (<>) in GetComponent work. The answer my tablemates gave me was that you put what class you want to get the component from on the object from. 
 
+Plan for Deer:
+-Variables
+  -target
+  -move speed
+-methods
+  -update for it to move towards its target every frame?? (maybe)
+for the deer, we set a target and then get that taregts vector3 position and then have the deer move to that position. 
+
 
 ## Open-Source Assets
 ### W1
