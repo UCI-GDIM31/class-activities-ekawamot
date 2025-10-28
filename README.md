@@ -20,6 +20,13 @@ We sit at table 18. It's one of the tables on the left side of the classroom nex
 For line 17, the line is declaring the member variable isGrounded. It is a bool that's value is true. Line 28 is an if statement that sees if the player is hitting the space key and if the variable isGrounded is true. If they are both true, then the player's character is forced into the air (a jump) and isGrounded is changed to be false (line 32). Overall, that section of the code is used to make the player character jump.  
 
 For the collider activity, we gave all three colliders colliders. We gave the cat and ball rigidbodies. We put IsTrigger for the goal. For me, it didn't work at first because I had selected the IsTrigger for the cat and ball, making the colliders not collide and do physics stuff. 
+
+
+### W5
+
+My question was how do the brackets (<>) in GetComponent work. The answer my tablemates gave me was that you put what class you want to get the component from on the object from. 
+
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
