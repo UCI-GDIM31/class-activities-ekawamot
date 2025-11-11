@@ -35,6 +35,10 @@ Plan for Deer:
 for the deer, we set a target and then get that taregts vector3 position and then have the deer move to that position. 
 
 
+### W7
+I did the UI section. 
+https://docs.google.com/document/d/1nSQTsrKYDlO6F7FmIx6hmC3CpusIQNMKURDBw7u9siU/edit?usp=sharing 
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
