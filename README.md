@@ -39,6 +39,9 @@ for the deer, we set a target and then get that taregts vector3 position and the
 I did the UI section. 
 https://docs.google.com/document/d/1nSQTsrKYDlO6F7FmIx6hmC3CpusIQNMKURDBw7u9siU/edit?usp=sharing 
 
+what was wrong with the code in Step 2?
+The code is Step 2 used transform.position instead of transform.Translate. By using transform.position, it changes the position of the muskrat in term of the world, not the muskrat. However by using transform.translate, it moves the muskrat in terms of its own rotation and position, making it better to use. 
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
